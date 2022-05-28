@@ -4,8 +4,8 @@
 
 <div align="center">
   <a href="https://github.com/JokyOFC">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=JokyOFC&show_icons=true&theme=rose_pine&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JokyOFC&layout=compact&langs_count=7&theme=rose_pine"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=JokyOFC&show_icons=true&theme=rose_pine&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JokyOFC&layout=compact&langs_count=7&theme=rose_pine"/>
 </div>
   
   ##

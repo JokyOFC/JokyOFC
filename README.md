@@ -8,8 +8,6 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JokyOFC&layout=compact&langs_count=7&theme=rose_pine"/>
 </div>
   
-  ##
-  
 <h1>My abilities</h1>
 
 <div style="display: inline_block"><br>

@@ -1,6 +1,4 @@
-
-## Hello World! I'm Joky!
-
+## Hello World! I'm [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=3000&pause=1000&color=39CBF7&vCenter=true&width=435&height=15&lines=Joky!_;Full+Stack+Developer_;Future+Computer+Scientist!_)](https://git.io/typing-svg)
 
 <div align="center">
   <a href="https://github.com/JokyOFC">
